@@ -2314,6 +2314,11 @@ PRODUCT_COPY_FILES += \
     vendor/realme/sm8250-common/proprietary/vendor/lib/libkernelmanager.so:$(TARGET_COPY_OUT_VENDOR)/lib/libkernelmanager.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib/libllvm-qgl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvm-qgl.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib/notgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/notgsl.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib/vkbadreno_app_profiles.so:$(TARGET_COPY_OUT_VENDOR)/lib/vkbadreno_app_profiles.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib/vkbadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/vkbadreno_utils.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib/vkbgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/vkbgsl.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib/vkbllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib/vkbllvm-glnext.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib/vkbllvm-qgl.so:$(TARGET_COPY_OUT_VENDOR)/lib/vkbllvm-qgl.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/egl/libVkLayer_ADRENO_qprofiler.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libVkLayer_ADRENO_qprofiler.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/libadreno_app_profiles.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadreno_app_profiles.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/libdmabufheap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdmabufheap.so \
@@ -2322,6 +2327,11 @@ PRODUCT_COPY_FILES += \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/libkernelmanager.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkernelmanager.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/libllvm-qgl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libllvm-qgl.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/notgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/notgsl.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib64/vkbadreno_app_profiles.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vkbadreno_app_profiles.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib64/vkbadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vkbadreno_utils.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib64/vkbgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vkbgsl.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib64/vkbllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vkbllvm-glnext.so \
+    vendor/realme/sm8250-common/proprietary/vendor/lib64/vkbllvm-qgl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vkbllvm-qgl.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/unnhal-acc-adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unnhal-acc-adreno.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib64/unnhal-acc-common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unnhal-acc-common.so \
