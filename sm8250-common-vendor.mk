@@ -1872,11 +1872,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/sm8250-common/proprietary/vendor/lib/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib/hw/vulkan.adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.adreno.so \
-    vendor/realme/sm8250-common/proprietary/vendor/lib64/hw/vulkan.adreno.so.id0:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.adreno.so.id0 \
-    vendor/realme/sm8250-common/proprietary/vendor/lib64/hw/vulkan.adreno.so.id1:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.adreno.so.id1 \
-    vendor/realme/sm8250-common/proprietary/vendor/lib64/hw/vulkan.adreno.so.id2:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.adreno.so.id2 \
-    vendor/realme/sm8250-common/proprietary/vendor/lib64/hw/vulkan.adreno.so.nam:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.adreno.so.nam \
-    vendor/realme/sm8250-common/proprietary/vendor/lib64/hw/vulkan.adreno.so.til:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.adreno.so.til \
     vendor/realme/sm8250-common/proprietary/vendor/lib/libAlacSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libAlacSwDec.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib/libApeSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libApeSwDec.so \
     vendor/realme/sm8250-common/proprietary/vendor/lib/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libC2D2.so \
